@@ -226,7 +226,36 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "pin_to_pin|1244600|622300|d0ceac1d-d7e6-4012-ae07-6f794d4b2d5a|b2331717-2138-4e9e-a503-c046a1bff0ab|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "This pin will always be inputs."
+      ],
+      [
+        "pin_to_pin|1244600|647700|efee0060-dbe6-47ed-9d36-49acd1360ea0|b2331717-2138-4e9e-a503-c046a1bff0ab|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "This pin will always be inputs."
+      ],
+      [
+        "pin_to_pin|1244600|673100|a02dff28-da9d-4a93-9a89-49451c223689|b2331717-2138-4e9e-a503-c046a1bff0ab|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8/4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "This pin will always be inputs."
+      ],
+      [
+        "pin_to_pin|2159000|431800|f52974c1-7abf-4c68-b862-41b4637c065d|12ff7ca4-477a-4a94-8ae8-09b7f8f7ccc6|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "Datasheet recommends GNDing unused I/Os."
+      ],
+      [
+        "pin_to_pin|2362200|431800|9215d379-2c4a-413f-8539-f924a68c6d08|12ff7ca4-477a-4a94-8ae8-09b7f8f7ccc6|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "Datasheet recommends GNDing unused I/Os."
+      ],
+      [
+        "pin_to_pin|2552700|431800|e10f18e0-4c22-4682-bbec-e620bb91e159|12ff7ca4-477a-4a94-8ae8-09b7f8f7ccc6|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "Datasheet recommends GNDing unused I/Os."
+      ],
+      [
+        "pin_to_pin|2755900|431800|b00cc108-ad6d-46b1-85fb-5343ba67062a|12ff7ca4-477a-4a94-8ae8-09b7f8f7ccc6|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8|/f1fc6258-4499-4f1b-936c-09bde8d994b8",
+        "Datasheet recommends GNDing unused I/Os."
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -597,7 +626,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../../../../../home/subaru/desktop/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -612,6 +641,10 @@
     [
       "f1fc6258-4499-4f1b-936c-09bde8d994b8",
       "Root"
+    ],
+    [
+      "4a6f5fe9-8f47-43e1-a1b9-b1b71ca0a2c0",
+      "STM32F103 MCU"
     ]
   ],
   "text_variables": {}

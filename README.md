@@ -1,4 +1,4 @@
-# black-magic-probe
+# μProbe
 
 ## Planned features for next release
 
@@ -10,3 +10,7 @@
 ## References
 
 - USB re-enumeration: https://stm32world.com/wiki/STM32_USB_Device_Renumeration
+
+## Credits
+
+- https://grabcad.com/library/sitime-2016-4-pin-smt-mems-crystal-oscillator-to-20-ppm-1

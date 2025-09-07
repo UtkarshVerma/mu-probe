@@ -116,22 +116,6 @@
           ""
         ],
         [
-          "starved_thermal|67520000|101585000|77a1f53f-c6ab-4948-ae51-25afe3e088e1|dc644884-6dc4-454c-9026-7da1a8226251|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|67650000|110400000|77a1f53f-c6ab-4948-ae51-25afe3e088e1|0208590b-a1f0-4ac3-9ad1-3b0bb25baa54|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|79000000|95910000|77a1f53f-c6ab-4948-ae51-25afe3e088e1|f95fea2a-b2f2-44bd-a961-6731bb7d781e|F.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|80280000|108400000|77a1f53f-c6ab-4948-ae51-25afe3e088e1|a57cb714-294d-4226-9e8f-e68a2f965a54|F.Cu",
-          ""
-        ],
-        [
           "text_height|66875000|116900000|a3028767-2f62-44c1-94f3-9b946eaeee2b|00000000-0000-0000-0000-000000000000",
           ""
         ],
@@ -232,14 +216,14 @@
         "min_hole_to_hole": 0.2,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
         "min_text_height": 0.8,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.15,
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
-        "min_via_diameter": 0.25,
+        "min_via_diameter": 0.4,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -932,7 +916,7 @@
       ],
       "filter_string": "",
       "group_symbols": true,
-      "include_excluded_from_bom": true,
+      "include_excluded_from_bom": false,
       "name": "",
       "sort_asc": true,
       "sort_field": "Reference"

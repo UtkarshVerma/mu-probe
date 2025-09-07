@@ -3406,7 +3406,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "STM32F103C8Tx"
+		(property "Value" "STM32F103CBUx"
 			(at 146.9233 100.33 0)
 			(effects
 				(font

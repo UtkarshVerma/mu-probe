@@ -9767,7 +9767,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C14663"
+		(property "LCSC Part" "C15195"
 			(at 111.76 33.02 0)
 			(effects
 				(font
@@ -12130,7 +12130,7 @@
 		(at 269.24 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)
@@ -12642,7 +12642,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp yes)
 		(fields_autoplaced yes)

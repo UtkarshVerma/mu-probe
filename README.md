@@ -1,5 +1,7 @@
 # μProbe
 
+![3D render of the project](./assets/cover.png)
+
 This probe is my personal take on the [Black Magic Debug][bmp] project's [Black Magic Probe v2.1][bmp-2.1]. I was disappointed to find out that I could not use my STLink v3 on non-ST targets[^1], even when they used the same protocol. One thing led to another and I stumbled upon the Black Magic Probe. The idea of having a configurable debugger appealed to me. This combined with an itch to work on a hardware project is what brought μProbe into existence.
 
 > [!note]

@@ -134,7 +134,7 @@
 		(uuid "b4a30d18-552f-4ce0-8661-1f15160b89d5")
 	)
 	(embedded_fonts no)
-	(model "/home/subaru/projects/black-magic-probe/models/QFN_2016_4pins.STEP"
+	(model "${KIPRJMOD}/models/QFN_2016_4pins.STEP"
 		(offset
 			(xyz 0 0 0.8)
 		)

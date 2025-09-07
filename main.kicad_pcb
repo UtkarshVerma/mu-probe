@@ -9919,7 +9919,7 @@
 				)
 			)
 		)
-		(property "Value" "STM32F103CBUx"
+		(property "Value" "STM32F103CBTx"
 			(at 0 5.85 90)
 			(layer "F.Fab")
 			(uuid "c5db6d93-0592-4605-a5c9-4d6c60140d05")
@@ -9954,7 +9954,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C8734"
+		(property "LCSC Part" "C8304"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
